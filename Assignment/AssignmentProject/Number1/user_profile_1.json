@@ -1,0 +1,12 @@
+{
+  "name": "Alice Johnson",
+  "age": 28,
+  "email": "alice@example.com",
+  "preferences": {
+    "theme": "dark",
+    "notifications": true
+  },
+  "created_at": "2025-10-07T06:04:25.333712",
+  "last_updated": "2025-10-07T06:04:25.333712",
+  "_version": "1.0"
+}
